@@ -1,5 +1,7 @@
 # 06 — Gatekeeper
 
+**English** · [繁體中文](06-gatekeeper.zh-TW.md)
+
 The gatekeeper ran **twice**: once after the initial panel (verdict `FIX REQUIRED`) and once
 after the repair + re-review (verdict `READY`).
 

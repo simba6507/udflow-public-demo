@@ -1,5 +1,7 @@
 # 03 — Implementation summary
 
+**English** · [繁體中文](03-implementation-summary.zh-TW.md)
+
 Two phases: the initial implementation, then a repair pass after the gatekeeper returned
 `FIX REQUIRED` (see `06-gatekeeper.md`). This file reflects the final state.
 

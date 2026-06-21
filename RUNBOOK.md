@@ -1,5 +1,7 @@
 # RUNBOOK — capturing the udflow demo run (Phase 2)
 
+**English** · [繁體中文](RUNBOOK.zh-TW.md)
+
 This is the **second session**. Phase 1 (scaffold, private repo, Issue #1, clean branch) is
 already done. The goal of this session is to run the real udflow workflow on Issue #1,
 capture the evidence into `docs/udflow-run-2026-06-21/`, redact the transcript, and open the PR.
