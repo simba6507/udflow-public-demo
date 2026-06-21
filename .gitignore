@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+*.log
+
+# udflow run artifacts kept LOCAL ONLY (raw transcript before redaction) — never commit
+*.raw.jsonl
+*.raw.md
+docs/**/transcript.raw.*
+
+# udflow project failure-memory — commit a redacted copy only if you intend to (see RUNBOOK)
+ai/FAILURE_MEMORY.md
