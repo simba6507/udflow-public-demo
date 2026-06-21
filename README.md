@@ -1,5 +1,7 @@
 # udflow-public-demo
 
+**English** · [繁體中文](README.zh-TW.md)
+
 > 📄 **This repository is the complete, end-to-end record of one real `/udflow:run`** — from the plan gate through the reviewer findings, the repair loop, and the final gatekeeper verdict, captured exactly as it happened.
 
 A **real, captured run** of [udflow](https://github.com/simba6507/universal-dev-flow-plugin) — the plan-gated, risk-proportional code-review & release-readiness workflow for Claude Code — on a small but non-trivial TypeScript task.
