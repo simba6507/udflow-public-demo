@@ -44,7 +44,7 @@ implementer allowed to write files.
 - `06-gatekeeper.md` — aggregated blockers / major / minor, conflict resolution if any, the **final verdict**, and the repair loop if one occurred.
 
 ## 6. Transcript → `transcript.redacted.md`
-- The raw session transcript JSONL is under `C:\Users\simba\.claude\projects\D--github-udflow-public-demo\`.
+- The raw session transcript JSONL is under your local Claude Code projects directory — e.g. `~/.claude/projects/<project>/` (macOS/Linux) or `C:\Users\<you>\.claude\projects\<project>\` (Windows).
 - Keep the RAW copy **local / outside the repo** (or named `*.raw.*`, which `.gitignore` already excludes). **Never commit the raw transcript.**
 - Produce `transcript.redacted.md` per `redaction-notes.md`:
   - **Strip:** local absolute paths, home/username paths, tokens/keys/cookies/env vars, private repo names, unrelated shell output, internal system/tool content. **Do not run `gh auth status` during the run** — it prints a token.
