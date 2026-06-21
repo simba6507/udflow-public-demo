@@ -15,7 +15,7 @@ npm test
 **最終狀態 —— 全綠：**
 - `npm run typecheck` → `tsc --noEmit`，exit 0，無輸出。（tsconfig `strict` + `noUncheckedIndexedAccess`。）
 - `npm run lint` → `eslint .`，exit 0，0 problems（僅在那段刻意的控制字元 regex 上，加了一處範圍極窄的 `eslint-disable-next-line no-control-regex`）。
-- `npm test` → `vitest run`：**Test Files 2 passed (2)、Tests 26 passed (26)**（`importRecipients.test.ts` 25 個行為測試 + 1 個 scaffold smoke test）。
+- `npm test` → `vitest run`：**Test Files 2 passed （2）、Tests 26 passed （26）**（`importRecipients.test.ts` 25 個行為測試 + 1 個 scaffold smoke test）。
 
 第 1 輪（最初實作）在 17 個測試時即為綠；修復階段新增了分支與測試，使測試數來到 26。
 
