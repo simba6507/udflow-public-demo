@@ -1,5 +1,7 @@
 # 04 — Verification
 
+**English** · [繁體中文](04-verification.zh-TW.md)
+
 Run after implementation and again after the repair pass. The orchestrator re-ran all three
 commands independently (not only trusting the subagent's report).
 

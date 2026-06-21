@@ -1,5 +1,7 @@
 # 00 — Task
 
+**English** · [繁體中文](00-task.zh-TW.md)
+
 > Source of truth: **Issue #1**. This file mirrors it so the evidence bundle is self-contained.
 
 ## Goal

@@ -1,5 +1,7 @@
 # Transcript (redacted)
 
+**English** · [繁體中文](transcript.redacted.zh-TW.md)
+
 Workflow-complete, redacted transcript of the `/udflow:run` session on Issue #1. Local absolute
 paths, usernames, secrets, internal subagent IDs, and unrelated shell output are stripped per
 [`redaction-notes.md`](redaction-notes.md); every workflow stage is preserved. `<repo>` denotes

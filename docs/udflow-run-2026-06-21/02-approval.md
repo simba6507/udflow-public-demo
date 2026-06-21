@@ -1,5 +1,7 @@
 # 02 — Approval
 
+**English** · [繁體中文](02-approval.zh-TW.md)
+
 - Approved at: **2026-06-21** (during the session, before the first verification run recorded
   at ~09:07 local; the exact clock minute was not separately captured — not fabricated here).
 - Approval mechanism: the user **approved the plan via `ExitPlanMode`** (Claude Code's

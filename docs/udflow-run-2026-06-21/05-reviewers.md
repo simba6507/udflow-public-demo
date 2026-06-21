@@ -1,5 +1,7 @@
 # 05 — Reviewers
 
+**English** · [繁體中文](05-reviewers.zh-TW.md)
+
 Findings as reported by each selected reviewer. The run had **two review rounds**: an initial
 panel (which surfaced four `major` findings) and a re-review after the repair. Severity labels
 (`blocker` / `major` / `minor`) are the reviewers' own. Nothing here is staged.

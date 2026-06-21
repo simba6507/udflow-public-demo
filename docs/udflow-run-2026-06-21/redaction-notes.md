@@ -1,5 +1,7 @@
 # Redaction notes
 
+**English** · [繁體中文](redaction-notes.zh-TW.md)
+
 The public [`transcript.redacted.md`](transcript.redacted.md) is derived from the local raw
 session transcript, which is **not** committed (it lives under the user's
 `~/.claude/projects/…` directory, outside the repo; the repo's `.gitignore` additionally

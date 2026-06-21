@@ -1,5 +1,7 @@
 # 01 — Plan gate
 
+**English** · [繁體中文](01-plan-gate.zh-TW.md)
+
 Captured at the plan gate, **before** approval. udflow entered Claude Code's native plan
 mode first (read-only), did requirement understanding + grounding, asked one scoping
 question, then presented the plan via `ExitPlanMode`.
