@@ -11,7 +11,7 @@ capture the evidence into `docs/udflow-run-2026-06-21/`, redact the transcript, 
 
 ## 0. Preconditions
 - You are in `D:\github\udflow-public-demo`.
-- The udflow plugin is installed (`/plugin` lists `udflow@kktmarketplace`) and `node --version` works (the hooks are Node scripts; with no Node they silently no-op).
+- The udflow plugin is installed (`/plugin` lists `udflow@kktu`) and `node --version` works (the hooks are Node scripts; with no Node they silently no-op).
 - You are on branch `feat/csv-recipient-import` and `git status --short` is **empty**.
 
 ## 1. Kickoff prompt (paste this to Claude)
@@ -88,5 +88,5 @@ Stop after the PR is opened. The repo stays **private** until you've reviewed th
 evidence. Then flip it public:
 
 ```
-gh repo edit simba6507/udflow-public-demo --visibility public --accept-visibility-change-consequences
+gh repo edit kktu6507/udflow-public-demo --visibility public --accept-visibility-change-consequences
 ```

@@ -8,7 +8,7 @@
 
 ## 0. 前置條件
 - 你位於 `D:\github\udflow-public-demo`。
-- 已安裝 udflow plugin（`/plugin` 列出 `udflow@kktmarketplace`），且 `node --version` 可運作（hooks 是 Node 腳本；沒有 Node 會靜默 no-op）。
+- 已安裝 udflow plugin（`/plugin` 列出 `udflow@kktu`），且 `node --version` 可運作（hooks 是 Node 腳本；沒有 Node 會靜默 no-op）。
 - 你在 `feat/csv-recipient-import` branch 上，且 `git status --short` 為**空**。
 
 ## 1. Kickoff prompt（貼這段給 Claude）
@@ -79,5 +79,5 @@ See docs/udflow-run-2026-06-21/transcript.redacted.md
 PR 開好後即停。在你檢視過遮蔽後的證據之前，repo 維持**私有**。之後再翻公開：
 
 ```
-gh repo edit simba6507/udflow-public-demo --visibility public --accept-visibility-change-consequences
+gh repo edit kktu6507/udflow-public-demo --visibility public --accept-visibility-change-consequences
 ```
