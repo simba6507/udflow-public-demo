@@ -4,7 +4,7 @@
 
 > 📄 **This repository is the complete, end-to-end record of one real `/udflow:run`** — from the plan gate through the reviewer findings, the repair loop, and the final gatekeeper verdict, captured exactly as it happened.
 
-A **real, captured run** of [udflow](https://github.com/simba6507/universal-dev-flow-plugin) — the plan-gated, risk-proportional code-review & release-readiness workflow for Claude Code — on a small but non-trivial TypeScript task.
+A **real, captured run** of [udflow](https://github.com/kktu6507/universal-dev-flow-plugin) — the plan-gated, risk-proportional code-review & release-readiness workflow for Claude Code — on a small but non-trivial TypeScript task.
 
 This repo exists so you can **see the workflow's actual behavior**, not a marketing GIF:
 
@@ -39,8 +39,8 @@ It's deliberately **correctness-critical** (parsing / encoding / dedup / untrust
 Prerequisite: **Claude Code** with the udflow plugin installed:
 
 ```
-/plugin marketplace add simba6507/universal-dev-flow-plugin
-/plugin install udflow@kktmarketplace
+/plugin marketplace add kktu6507/universal-dev-flow-plugin
+/plugin install udflow@kktu
 /reload-plugins
 ```
 

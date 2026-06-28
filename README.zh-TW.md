@@ -4,7 +4,7 @@
 
 > 📄 **本 repo 是一次真實 `/udflow:run` 的完整端到端紀錄** —— 從 plan gate、各審查員的發現、repair loop，到最後 gatekeeper 的判決，原汁原味照實記錄。
 
-一次 [udflow](https://github.com/simba6507/universal-dev-flow-plugin) 的**真實執行紀錄**。udflow 是 Claude Code 上一套「plan-gated、依風險挑選審查員」的 code-review 與 release-readiness 工作流程；這次示範的是一個小而不瑣碎的 TypeScript 任務。
+一次 [udflow](https://github.com/kktu6507/universal-dev-flow-plugin) 的**真實執行紀錄**。udflow 是 Claude Code 上一套「plan-gated、依風險挑選審查員」的 code-review 與 release-readiness 工作流程；這次示範的是一個小而不瑣碎的 TypeScript 任務。
 
 這個 repo 的目的，是讓你看見工作流程**真正的行為**，而不是行銷用的動圖：
 
@@ -39,8 +39,8 @@
 前置需求：裝好 udflow plugin 的 **Claude Code**：
 
 ```
-/plugin marketplace add simba6507/universal-dev-flow-plugin
-/plugin install udflow@kktmarketplace
+/plugin marketplace add kktu6507/universal-dev-flow-plugin
+/plugin install udflow@kktu
 /reload-plugins
 ```
 
